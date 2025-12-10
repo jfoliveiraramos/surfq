@@ -2,6 +2,12 @@
 
 **SurfQ** is a Python framework for efficiently simulating surface codes under noise. The aim is to enable detailed investigation of the behavior of surface codes under different physical error models, supporting advanced fault-tolerant protocols such as lattice surgery, state injection, and magic state distillation as future extensions.
 
+## License
+
+This project is released under the **GNU Affero General Public License v3.0 (AGPL-3.0) or later**.
+
+Please see the [LICENSE](LICENSE) file for the full text of the license.
+
 ## Features
 
 - Intuitive surface code representation
