@@ -49,6 +49,7 @@ surfq = ["fonts/*.ttf", "fonts/*.otf"]
 
 [dependency-groups]
 dev = [
+    "jupyter>=1.1.1",
     "matplotlib-stubs>=0.3.2",
     "pytest>=8.4.1",
     "ruff>=0.12.8",
